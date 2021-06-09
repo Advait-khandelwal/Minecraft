@@ -76,7 +76,7 @@ function new_image(get_image) {
          }
         
           if(keypressed == '87'){
-         new_image("wall.png")
+         new_image("wall.jpg")
          console.log("w")
           }
           
